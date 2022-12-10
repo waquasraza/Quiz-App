@@ -6,7 +6,7 @@
 .pnp.js
 
 #files
-.gitignore
+gitignore
 
 # testing
 /coverage
